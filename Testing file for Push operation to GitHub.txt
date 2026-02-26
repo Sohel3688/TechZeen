@@ -1,0 +1,1 @@
+Testing document for pushing doc on GitHub from local via git.
